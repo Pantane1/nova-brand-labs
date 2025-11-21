@@ -1,6 +1,6 @@
 # NOVA BRAND LABS
 
-![Nova Brand Labs Logo](logo.png)
+![Nova Brand Labs Logo](Pantane.png))
 
 ## TAGLINE
 *“Where ideas evolve into intelligent brands.”*
